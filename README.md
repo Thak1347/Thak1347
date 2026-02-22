@@ -36,7 +36,7 @@
   <a href="https://t.me/PITHAK">
     <img src="https://img.shields.io/badge/Telegram-@PITHAK-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/.../224523565/-Khmer-New-Year-2025">
+  <a href="https://www.behance.net/chhornpithak">
     <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/pithakofficial?">
