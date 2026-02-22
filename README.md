@@ -52,11 +52,9 @@
 - 🌱 I’m currently learning **advanced Flutter + Laravel**, **full stack best practices**, and **design systems**  
 - 💬 Ask me about **React/Next.js**, **Flutter/Dart**, **SQL**, **Git/GitHub**, and **UI/UX**  
 - ⚡ Fun fact: I love mixing **development + design** to build products that are **useful and beautiful**
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=3&section=footer" />
-</p>
+---
 
-## Tech Stack
+## 🧩 Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa)
@@ -67,16 +65,20 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=60a5fa)
 ![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=38bdf8)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
+
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=60a5fa)
-### Backend/Database
+
+### Backend / Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-0f172a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=60a5fa)
 ![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=93c5fd)
+
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
