@@ -100,7 +100,7 @@
 - **Repo:** 
 ### 🎨 UI/UX Case Studies (Behance / Figma)
 - **Highlights:** UI kits, responsive layouts, design systems  
-- **Behance:** 
+- **Behance:*https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1* 
 ---
 ## What I’m Building Next
 - ✅ Better **auth + role-based access** patterns  
