@@ -44,6 +44,14 @@
   </a>
 </p>
 
+---
+## About Me :)
+- 🔭 I’m currently working on **web & mobile portfolio projects** and improving real-world skills  
+- 👯 I’m looking to collaborate on **React/Next.js apps**, **Flutter apps**, and **UI/UX projects (Figma)**  
+- 🤝 I’m looking for help with **clean architecture**, **auth/APIs**, and **deployment**  
+- 🌱 I’m currently learning **advanced Flutter + Laravel**, **full stack best practices**, and **design systems**  
+- 💬 Ask me about **React/Next.js**, **Flutter/Dart**, **SQL**, **Git/GitHub**, and **UI/UX**  
+- ⚡ Fun fact: I love mixing **development + design** to build products that are **useful and beautiful**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=3&section=footer" />
 </p>
@@ -97,14 +105,6 @@
 - ✅ Cleaner **project architecture** (frontend + backend)  
 - ✅ More **Flutter + laravel** apps with production structure  
 - ✅ Improved **UI/UX** components + reusable design system
----
-## About Me :)
-- 🔭 I’m currently working on **web & mobile portfolio projects** and improving real-world skills  
-- 👯 I’m looking to collaborate on **React/Next.js apps**, **Flutter apps**, and **UI/UX projects (Figma)**  
-- 🤝 I’m looking for help with **clean architecture**, **auth/APIs**, and **deployment**  
-- 🌱 I’m currently learning **advanced Flutter + Laravel**, **full stack best practices**, and **design systems**  
-- 💬 Ask me about **React/Next.js**, **Flutter/Dart**, **SQL**, **Git/GitHub**, and **UI/UX**  
-- ⚡ Fun fact: I love mixing **development + design** to build products that are **useful and beautiful**
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=3&section=footer" />
