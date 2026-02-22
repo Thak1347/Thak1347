@@ -92,15 +92,17 @@
 ## Featured Projects
 ### 🛒 KHENLA E-commerce (Full Stack)
 - **Tech:** React, FastAPI, SQLAlchemy, JWT Auth, SQL/SQLite (KHQR + BECELONE image)  
-- **Highlights:** Product catalog, categories/brands, orders, admin features, multi-language support  
-- **Repo:** 
+- **Highlights:** Product catalog, categories/brands, orders, admin features, multi-language support (khmer,English,laos)
+- **Repo:** https://github.com/Thak1347/ecommerce-khenla-backend
+- **Repo:** https://github.com/Thak1347/ecommerce-khenla-frontend-user
+- **Repo:** https://github.com/Thak1347/ecommerce-khenla-frontend-admin    
 ### ☕ Cafe POS / Cafe Management System
 - **Tech:** React, Python backend, SQLite, payment integration(KHQR)  
 - **Highlights:** Orders, receipts, tables, inventory, cashier workflow  
-- **Repo:** 
+- **Repo:**            
 ### 🎨 UI/UX Case Studies (Behance / Figma)
 - **Highlights:** UI kits, responsive layouts, design systems  
-- **Behance:*https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1* 
+- **Behance:** https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1
 ---
 ## What I’m Building Next
 - ✅ Better **auth + role-based access** patterns  
