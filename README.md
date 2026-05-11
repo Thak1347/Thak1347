@@ -93,9 +93,7 @@
 ### 🛒 KHENLA E-commerce (Full Stack)
 - **Tech:** React, FastAPI, SQLAlchemy, JWT Auth, SQL/SQLite (KHQR + BECELONE image)  
 - **Highlights:** Product catalog, categories/brands, orders, admin features, multi-language support (khmer,English,laos)
-- **Repo:** https://github.com/Thak1347/ecommerce-khenla-backend
-- **Repo:** https://github.com/Thak1347/ecommerce-khenla-frontend-user
-- **Repo:** https://github.com/Thak1347/ecommerce-khenla-frontend-admin    
+- **Repo:** 
 ### ☕ Cafe POS / Cafe Management System
 - **Tech:** React, Python backend, SQLite, payment integration(KHQR)  
 - **Highlights:** Orders, receipts, tables, inventory, cashier workflow  
