@@ -1,10 +1,4 @@
-<!-- =======================
-  GitHub Profile README (Modern)
-  Username: Thak1347
-  Name: Chhorn Pithak
-  Location: Phnom Penh, Cambodia
-  Roles: Junior App Developer | Full Stack Developer | UI/UX Designer
-======================== -->
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=210&section=header&text=Chhorn%20Pithak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20App%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60" />
@@ -65,6 +59,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=60a5fa)
 ![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=38bdf8)
+!PHP
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
@@ -89,18 +84,39 @@
 ![Render](https://img.shields.io/badge/Render-0f172a?style=for-the-badge&logo=render&logoColor=white)
 
 ---
+
+### 🛒 E-commerce Store (Full Stack) Laravel + Sql + React/Vite
+- **Repo:** https://github.com/Thak1347/ecommerceStoreFontend_ReactVite_Antd_TailwindCSS07062026.git
+
+### ☕ Cafe POS / Cafe Management System
+- **Tech:** React, Python backend, SQLite 
+- **Highlights:** Orders, receipts, tables, inventory, cashier workflow  
+- **Repo:**       
+Backend Repository (Python/SQLite): SmellCafeShopBackendPythonSQLite07072026
+Frontend Repository (React): SmellCafeShopFrontendReact07072026
+Full Roadmap & Documentation: SmellCafeShopFullRoadMapPythonSqliteReact
+- **Video Demo:** https://youtu.be/UjzZptgvWAg
+
+### 🎨 UI/UX Case Studies (Behance / Figma)
+- **Highlights:** UI kits, responsive layouts, design systems  
+- **Behance:** https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1
+- **Video Demo:** https://youtu.be/zovTR_U4tps
+
+### Flutter TaskFlow - Todo App with BLoC & REST API
+- **Repo:** https://github.com/Thak1347/todoRestAPIDummyJSON15062026_assigment.git
+- **Repo:** https://github.com/Thak1347/TVMazeMovie_API_04062026.git
+  
+### Flutter Lao_Khmer Dictonary 2026
+- **Repo:** https://github.com/Thak1347/Lao_Khmer_dictionary_flutter04062026.git
+
 ## Featured Projects
 ### 🛒 KHENLA E-commerce (Full Stack)
 - **Tech:** React, FastAPI, SQLAlchemy, JWT Auth, SQL/SQLite (KHQR + BECELONE image)  
 - **Highlights:** Product catalog, categories/brands, orders, admin features, multi-language support (khmer,English,laos)
-- **Repo:** 
-### ☕ Cafe POS / Cafe Management System
-- **Tech:** React, Python backend, SQLite, payment integration(KHQR)  
-- **Highlights:** Orders, receipts, tables, inventory, cashier workflow  
-- **Repo:**            
-### 🎨 UI/UX Case Studies (Behance / Figma)
-- **Highlights:** UI kits, responsive layouts, design systems  
-- **Behance:** https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1
+- **Repo:**
+- https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
+- https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
+  
 ---
 ## What I’m Building Next
 - ✅ Better **auth + role-based access** patterns  
