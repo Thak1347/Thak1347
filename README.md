@@ -1,8 +1,8 @@
 
 <!-- Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=210&section=header&text=Chhorn%20Pithak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20App%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60" />
-</p>
+</p> -->
 <!-- Profile View Counters (Blue) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thak1347&color=blue" />
@@ -48,53 +48,58 @@
 - ⚡ Fun fact: I love mixing **development + design** to build products that are **useful and beautiful**
 ---
 
-## 🧩 Tech Stack
-### Languages
-![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=facc15)
-![C%23](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=60a5fa)
-![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=38bdf8)
-!PHP
+# 🧩 Tech Stack
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php,javascript,html,css,dart" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=60a5fa)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs" />
+</p>
 
-### Backend / Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0f172a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=60a5fa)
-![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=93c5fd)
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=f472b6)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0f172a?style=for-the-badge&logo=adobephotoshop&logoColor=38bdf8)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0f172a?style=for-the-badge&logo=adobeillustrator&logoColor=f59e0b)
-![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0f172a?style=for-the-badge&logo=render&logoColor=white)
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,vercel" />
+</p>
+
+### 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
 ---
-
+## Featured Projects
 ### 🛒 E-commerce Store (Full Stack) Laravel + Sql + React/Vite
 - **Repo:** https://github.com/Thak1347/ecommerceStoreFontend_ReactVite_Antd_TailwindCSS07062026.git
 
 ### ☕ Cafe POS / Cafe Management System
 - **Tech:** React, Python backend, SQLite 
 - **Highlights:** Orders, receipts, tables, inventory, cashier workflow  
-- **Repo:**       
-Backend Repository (Python/SQLite): SmellCafeShopBackendPythonSQLite07072026
-Frontend Repository (React): SmellCafeShopFrontendReact07072026
-Full Roadmap & Documentation: SmellCafeShopFullRoadMapPythonSqliteReact
+- ** 🚀 Repository Links **
+- **Backend Repository (Python/SQLite):** [SmellCafeShopBackendPythonSQLite07072026](https://github.com/Thak1347/SmellCafeShopBackendPythonSQLite07072026.git)
+- **Frontend Repository (React):** [SmellCafeShopFrontendReact07072026](https://github.com/Thak1347/SmellCafeShopFrontendReact07072026.git)
+- **Full Roadmap & Documentation:** [SmellCafeShopFullRoadMapPythonSqliteReact](https://github.com/Thak1347/SmellCafeShopFullRoadMapPythonSqliteReact.git)
 - **Video Demo:** https://youtu.be/UjzZptgvWAg
 
 ### 🎨 UI/UX Case Studies (Behance / Figma)
@@ -108,16 +113,15 @@ Full Roadmap & Documentation: SmellCafeShopFullRoadMapPythonSqliteReact
   
 ### Flutter Lao_Khmer Dictonary 2026
 - **Repo:** https://github.com/Thak1347/Lao_Khmer_dictionary_flutter04062026.git
-
-## Featured Projects
+  
 ### 🛒 KHENLA E-commerce (Full Stack)
 - **Tech:** React, FastAPI, SQLAlchemy, JWT Auth, SQL/SQLite (KHQR + BECELONE image)  
 - **Highlights:** Product catalog, categories/brands, orders, admin features, multi-language support (khmer,English,laos)
 - **Repo:**
 - https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
 - https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
-  
----
+
+<!--
 ## What I’m Building Next
 - ✅ Better **auth + role-based access** patterns  
 - ✅ Cleaner **project architecture** (frontend + backend)  
