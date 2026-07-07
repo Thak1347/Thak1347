@@ -90,9 +90,14 @@
 
 ---
 ## Featured Projects
+
 ### 🛒 E-commerce Store (Full Stack) Laravel + Sql + React/Vite
 - **Repo:** https://github.com/Thak1347/ecommerceStoreFontend_ReactVite_Antd_TailwindCSS07062026.git
-
+  
+### RealTimeAttendance Visual Studio 2019 & EmguCV 4.5 2026
+- **Repo:** https://github.com/Thak1347/RealTimeAttendance07-05-2026Cshap.git
+- **Video Demo:** https://youtu.be/2zloYFFHW5A
+  
 ### ☕ Cafe POS / Cafe Management System
 - **Tech:** React, Python backend, SQLite 
 - **Highlights:** Orders, receipts, tables, inventory, cashier workflow  
@@ -102,17 +107,17 @@
 - **Full Roadmap & Documentation:** [SmellCafeShopFullRoadMapPythonSqliteReact](https://github.com/Thak1347/SmellCafeShopFullRoadMapPythonSqliteReact.git)
 - **Video Demo:** https://youtu.be/UjzZptgvWAg
 
-### 🎨 UI/UX Case Studies (Behance / Figma)
-- **Highlights:** UI kits, responsive layouts, design systems  
-- **Behance:** https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1
-- **Video Demo:** https://youtu.be/zovTR_U4tps
-
 ### Flutter TaskFlow - Todo App with BLoC & REST API
 - **Repo:** https://github.com/Thak1347/todoRestAPIDummyJSON15062026_assigment.git
 - **Repo:** https://github.com/Thak1347/TVMazeMovie_API_04062026.git
   
 ### Flutter Lao_Khmer Dictonary 2026
 - **Repo:** https://github.com/Thak1347/Lao_Khmer_dictionary_flutter04062026.git
+
+### 🎨 UI/UX Case Studies (Behance / Figma)
+- **Highlights:** UI kits, responsive layouts, design systems  
+- **Behance:** https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1
+- **Video Demo:** https://youtu.be/zovTR_U4tps
   
 ### 🛒 KHENLA E-commerce (Full Stack)
 - **Tech:** React, FastAPI, SQLAlchemy, JWT Auth, SQL/SQLite (KHQR + BECELONE image)  
@@ -120,7 +125,7 @@
 - **Repo:**
 - https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
 - https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
-
+  
 <!--
 ## What I’m Building Next
 - ✅ Better **auth + role-based access** patterns  
