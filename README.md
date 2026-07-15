@@ -96,7 +96,7 @@
   
 ### RealTimeAttendance Visual Studio 2019 & EmguCV 4.5 2026
 - **Repo:** https://github.com/Thak1347/RealTimeAttendance07-05-2026Cshap.git
-- **Video Demo:** https://youtu.be/2zloYFFHW5A
+- **Video Demo:** [https://youtu.be/2zloYFFHW5A](https://youtu.be/G-CBrskWGhs)
   
 ### ☕ Cafe POS / Cafe Management System
 - **Tech:** React, Python backend, SQLite 
