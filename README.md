@@ -117,7 +117,8 @@
 - **Repo:** https://github.com/Thak1347/Lao_Khmer_dictionary_flutter04062026.git
 
 ### 🎨 UI/UX Case Studies (Behance / Figma)
-- **Highlights:** UI kits, responsive layouts, design systems  
+- **Highlights:** UI kits, responsive layouts, design systems
+- **Figma :** https://www.figma.com/design/3hhu5LzRYHP6RajrN1GQdH/Smell-System-Cafe-POS-System?node-id=16-2&t=gujoWkUv0IWQWLb6-1
 - **Behance:** https://www.behance.net/gallery/244577007/Smell-System-Cafe-POS-System?share=1
 - **Video Demo:** https://youtu.be/zovTR_U4tps
   
