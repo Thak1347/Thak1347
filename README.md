@@ -127,7 +127,7 @@
 - **Highlights:** Product catalog, categories/brands, orders, admin features, multi-language support (khmer,English,laos)
 - **Repo:**
 - https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
-- https://github.com/Thak1347/ecommerce-khenla-frontend-admin.git
+- https://github.com/Thak1347/ecommerce-khenla-frontend-user.git
   
 <!--
 ## What I’m Building Next
