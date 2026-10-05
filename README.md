@@ -15,6 +15,9 @@
 </p>
 <!-- Contact Buttons -->
 <p align="center">
+  <a href="https://thak1347.github.io/Portfolio_Self/">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <a href="mailto:chounpithak@gmail.com">
     <img src="https://img.shields.io/badge/Email-chounpithak%40gmail.com-1e40af?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
