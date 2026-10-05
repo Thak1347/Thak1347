@@ -93,7 +93,7 @@
 
 ### 🛒 E-commerce Store (Full Stack) Laravel + Sql + React/Vite
 - **Repo frontend user:** https://github.com/Thak1347/ecommerceStoreFontend_ReactVite_Antd_TailwindCSS07062026.git
-- **Repo backend:** https://github.com//ecommerceStore_Laravel-12_MySQL07062026
+- **Repo backend:** https://github.com/Thak1347/ecommerceStore_Laravel-12_MySQL07062026
 - **Repo frontend admin** https://github.com/Thak1347/ecommerceStoreAdmin_ReactVite_Antd_TailwindCSS07062026
   
 ### RealTimeAttendance Visual Studio 2019 & EmguCV 4.5 2026
